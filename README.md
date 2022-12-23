@@ -1,2 +1,2 @@
 # TestReview
- sum of mumbers
+ sum of numbers
